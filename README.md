@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RaresToader
-- 👀 I’m interested in Software Development and Data Science.
-- 🌱 I’m currently planning to learn Python for Data Science.
+- 👀 I’m interested in Software Engineering.
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me? Via my LinkedIn profile.
 
